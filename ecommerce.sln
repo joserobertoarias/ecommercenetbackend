@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BE3CFB15-B3CE-4C0E-9384-51BCC9976B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommerce.api", "src\ecommerce.api\ecommerce.api.csproj", "{874B9E6C-F3B0-4B03-A1B7-3FE114883058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874B9E6C-F3B0-4B03-A1B7-3FE114883058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874B9E6C-F3B0-4B03-A1B7-3FE114883058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874B9E6C-F3B0-4B03-A1B7-3FE114883058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874B9E6C-F3B0-4B03-A1B7-3FE114883058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{874B9E6C-F3B0-4B03-A1B7-3FE114883058} = {BE3CFB15-B3CE-4C0E-9384-51BCC9976B84}
+	EndGlobalSection
+EndGlobal
